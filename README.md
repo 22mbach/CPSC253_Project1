@@ -33,9 +33,6 @@ keystream.py # Key derivation & SHA-256 keystream generator
 crypto_core.py # Main encryption/decryption logic + CLI
 gui_app.py # Tkinter GUI for file selection & easy use
 
-yaml
-Copy code
-
 ---
 
 ## ⚡ Installation
@@ -101,4 +98,5 @@ You can always back up your password; decryption is impossible without it.
 
 📜 License
 This project is released under the MIT License — free to use, modify, and learn from.
+
 

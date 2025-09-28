@@ -20,15 +20,8 @@ The program supports both **command-line** and **graphical interface (GUI)** usa
 ## 📸 Screenshots
 
 ### GUI Main Window
-![GUI Main Window](images/gui_main.png)
+<img width="329" height="216" alt="Screenshot 2025-09-27 223113" src="https://github.com/user-attachments/assets/774c343e-efe9-47c1-9bc6-f89e28985384" />
 
-### Encrypting a TXT File
-![Encrypt Window](images/gui_encrypt.png)
-
-### Decrypting a TXT File
-![Decrypt Window](images/gui_decrypt.png)
-
-*(Save screenshots in an `images/` folder or adjust the paths.)*
 
 ---
 
@@ -108,3 +101,4 @@ You can always back up your password; decryption is impossible without it.
 
 📜 License
 This project is released under the MIT License — free to use, modify, and learn from.
+

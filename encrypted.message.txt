@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "kdf": "PBKDF2-HMAC-SHA256+SHA256-CTR-XOR",
+  "iters": 200000,
+  "salt": "863b5518ed77b5e3c20544e9090f2c1f",
+  "rails": 4,
+  "data": "4/JFFruZfqXyZBhWrFEHSZqGJojkux+mlmw0h7i+cEJ9ArFmVgWgaMprvwgBvielGIqEwEMFPM5L74AzeYMO891oyoqPagaQxoJhzn8s+Vv7iPJPJ903h98SoKg82p7jTnETNUt4kipCJkd6pYhGoZvw1KUUCfnL4gUUiQRLfgKtJHFjtT8A"
+}

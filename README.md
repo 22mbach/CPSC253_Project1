@@ -22,17 +22,6 @@ The program supports both **command-line** and **graphical interface (GUI)** usa
 ### GUI Main Window
 <img width="329" height="216" alt="Screenshot 2025-09-27 223113" src="https://github.com/user-attachments/assets/774c343e-efe9-47c1-9bc6-f89e28985384" />
 
-
----
-
-## 📂 Project Structure
-
-morse.py # Morse code conversion (substitution layer)
-transposition.py # Rail-fence transposition (scramble layer)
-keystream.py # Key derivation & SHA-256 keystream generator
-crypto_core.py # Main encryption/decryption logic + CLI
-gui_app.py # Tkinter GUI for file selection & easy use
-
 ---
 
 ## ⚡ Installation
@@ -98,5 +87,6 @@ You can always back up your password; decryption is impossible without it.
 
 📜 License
 This project is released under the MIT License — free to use, modify, and learn from.
+
 
 
